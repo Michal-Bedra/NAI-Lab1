@@ -9,6 +9,8 @@ import skfuzzy as fuzz
 from skfuzzy import control as ctrl
 
 """
+Program steruje mocą ssania odkurzacza autonomicznego w zależności od powierzchni, stopnia
+zabrudzenia, oraz poziomu dostępnej mocy baterii.
 Filip Patuła s28615, Michał Bedra s28854
 """
 
